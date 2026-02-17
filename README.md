@@ -18,7 +18,7 @@
 
 ----
 
-## 👨‍💻 About me
+## About me
 
  **AI & ML Undergraduate — IIIT Nagpur**  
  Passionate about **Intelligent Systems, Edge AI, and Scalable Software**  
