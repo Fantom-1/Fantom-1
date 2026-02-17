@@ -54,25 +54,58 @@
 
 ---
 
-## 🚀 Key Projects
+---
 
-🔹 **OpenML-Lab**  
-> Machine Learning algorithms implemented from scratch  
-`Python • ML Fundamentals`
+## 🚀 My Work
 
-🔹 **DeepStocks**  
-> AI-powered stock monitoring dashboard  
-`JavaScript • Analytics`
+### 🔹 OpenML-Lab
+<p>
+  Machine Learning algorithms implemented from scratch for deeper conceptual understanding.
+</p>
 
-🔹 **PlanetFirst**  
-> Simplified Life Cycle Assessment platform  
-`Full-Stack • Sustainability Tech`
-
-🔹 **Rutu Chatbot**  
-> Conversational assistant using NLP  
-`Dialogflow • Web`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange" />
+</p>
 
 ---
+
+### 🔹 DeepStocks
+<p>
+  AI-powered stock monitoring dashboard providing intelligent market insights.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Analytics-4285F4?style=flat&logo=googleanalytics&logoColor=white" />
+</p>
+
+---
+
+### 🔹 PlanetFirst
+<p>
+  Simplified Life Cycle Assessment platform focused on sustainability metrics.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack-000000?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Sustainability-2E7D32?style=flat&logo=leaflet&logoColor=white" />
+</p>
+
+---
+
+### 🔹 Rutu Chatbot
+<p>
+  Conversational assistant built using NLP for automated user interaction.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-6A1B9A?style=flat&logo=spacy&logoColor=white" />
+</p>
+
+---
+
 
 ## 🤝 Connect With Me
 
