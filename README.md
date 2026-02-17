@@ -29,24 +29,31 @@
 
 ## 🛠️ Technical Skills
 
-###  Programming Languages
-<p align="justify">
+<table>
+<tr>
+<td width="60%">
+
+### 💻 Programming Languages
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
-###  Tools & Technologies
-<p align="justify">
+### 🚀 Tools & Technologies
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,jupyter,nodejs,react" />
 </p>
 
----
+</td>
 
-##  GitHub
+<td width="40%" align="center">
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Fantom-1&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Stats
+<img height="170"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Fantom-1&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
