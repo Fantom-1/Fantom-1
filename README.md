@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/last-commit/Fantom-1/Fantom-1?style=for-the-badge&color=green" />
 </p>
 
---
+----
 
 ## 👨‍💻 About me
 
@@ -25,7 +25,7 @@
 🚀 Actively building projects in **Machine Learning, Automation, and Web Development**  
 🧠 Strong focus on **DSA, System Thinking, and Real-World Problem Solving**
 
---
+----
 
 ## 🛠️ Technical Skills
 
