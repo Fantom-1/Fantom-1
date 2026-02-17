@@ -29,19 +29,19 @@
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-<p align="center">
+###  Programming Languages
+<p align="justify">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
-### ⚙️ Tools & Technologies
-<p align="center">
+###  Tools & Technologies
+<p align="justify">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,jupyter,nodejs,react" />
 </p>
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <p align="center">
   <img height="170"
@@ -64,7 +64,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <i>"Code with purpose. Build with impact."</i>
