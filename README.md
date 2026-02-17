@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center" size='40px'>Yash Khedekar</h1>
+<h1 align="center" size='70px'>Yash Khedekar</h1>
 <h3 align="center">AI & ML Student •  Building Intelligent Systems</h3>
 
 <p align="center">
