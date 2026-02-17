@@ -1,89 +1,104 @@
-<!-- ====== HEADER ====== -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">Yash Khedekar</h1>
-<h3 align="center">AI & ML Student • Full-Stack Learner • Building Intelligent Systems</h3>
+<h3 align="center">AI & ML Student • Full-Stack Developer • Building Intelligent Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/Fantom-1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer+in+Progress;C+%7C+C%2B%2B+%7C+JavaScript+%7C+Python;Building+Projects+That+Matter" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer+in+Progress;C+%7C+C%2B%2B+%7C+JavaScript+%7C+Python;Focused+on+Real-World+Impact" />
 </p>
 
+<!-- ================= BADGES (PROPERLY PLACED) ================= -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fantom-1&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Fantom-1?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/Fantom-1?label=Stars&style=flat&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=Fantom-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Fantom-1?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Fantom-1?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/Fantom-1/Fantom-1?style=for-the-badge&color=green" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 Professional Summary
 
-🎓 AI & ML undergraduate at **IIIT Nagpur**  
-💡 Interested in **Intelligent Systems, Edge AI, and Scalable Software**  
-🚀 Currently improving **DSA, Full-Stack Development, and ML fundamentals**  
-🔧 Love building projects that combine **AI + Real-World Impact**
+🎓 **AI & ML Undergraduate — IIIT Nagpur**  
+💡 Passionate about **Intelligent Systems, Edge AI, and Scalable Software**  
+🚀 Actively building projects in **Machine Learning, Automation, and Web Development**  
+🧠 Strong focus on **DSA, System Thinking, and Real-World Problem Solving**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👨‍💻 Languages
-<p align="left">
+### 💻 Programming Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
-### ⚙️ Tools & Environment
-<p align="left">
+### ⚙️ Tools & Technologies
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,jupyter,nodejs,react" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fantom-1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Fantom-1&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fantom-1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Fantom-1&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantom-1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantom-1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Key Projects
 
-🔹 **OpenML-Lab** — ML algorithms from scratch  
-🔹 **DeepStocks** — AI-powered stock monitoring  
-🔹 **PlanetFirst** — Simplified LCA platform  
-🔹 **Rutu Chatbot** — Conversational NLP assistant  
+🔹 **OpenML-Lab**  
+> Machine Learning algorithms implemented from scratch  
+`Python • ML Fundamentals`
+
+🔹 **DeepStocks**  
+> AI-powered stock monitoring dashboard  
+`JavaScript • Analytics`
+
+🔹 **PlanetFirst**  
+> Simplified Life Cycle Assessment platform  
+`Full-Stack • Sustainability Tech`
+
+🔹 **Rutu Chatbot**  
+> Conversational assistant using NLP  
+`Dialogflow • Web`
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus Areas
 
-- 🧩 Mastering **Data Structures & Algorithms**  
-- 🤖 Developing **JARVIS-like AI assistant**  
-- 🌐 Strengthening **Full-Stack Development**  
-- 📈 Growing through **Open Source Contributions**
+- 🧩 Advanced **Data Structures & Algorithms**  
+- 🤖 **JARVIS-like AI Assistant Development**  
+- 🌐 Scalable **Full-Stack Systems**  
+- 📈 Meaningful **Open Source Contributions**
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/yashkhedekar31">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Yash_Khedekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Fantom-1">
+    <img src="https://img.shields.io/badge/GitHub-Fantom--1-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code. Build. Learn. Repeat.”</i>
+  <i>"Code with purpose. Build with impact."</i>
 </p>
