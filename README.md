@@ -20,10 +20,10 @@
 
 ## 👨‍💻 About me
 
-🎓 **AI & ML Undergraduate — IIIT Nagpur**  
-💡 Passionate about **Intelligent Systems, Edge AI, and Scalable Software**  
-🚀 Actively building projects in **Machine Learning, Automation, and Web Development**  
-🧠 Strong focus on **DSA, System Thinking, and Real-World Problem Solving**
+ **AI & ML Undergraduate — IIIT Nagpur**  
+ Passionate about **Intelligent Systems, Edge AI, and Scalable Software**  
+ Actively building projects in **Machine Learning, Automation, and Web Development**  
+
 
 ----
 
