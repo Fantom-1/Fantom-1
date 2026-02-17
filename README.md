@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About me
 
 🎓 **AI & ML Undergraduate — IIIT Nagpur**  
 💡 Passionate about **Intelligent Systems, Edge AI, and Scalable Software**  
@@ -71,15 +71,6 @@
 🔹 **Rutu Chatbot**  
 > Conversational assistant using NLP  
 `Dialogflow • Web`
-
----
-
-## 🎯 Current Focus Areas
-
-- 🧩 Advanced **Data Structures & Algorithms**  
-- 🤖 **JARVIS-like AI Assistant Development**  
-- 🌐 Scalable **Full-Stack Systems**  
-- 📈 Meaningful **Open Source Contributions**
 
 ---
 
