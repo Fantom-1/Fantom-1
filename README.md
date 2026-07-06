@@ -1,75 +1,59 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-<h1 align="center" size='70px'>Yash Khedekar</h1>
-<h3 align="center">AI & ML Student •  Building Intelligent Systems</h3>
+# Yash Khedekar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;C+%7C+C%2B%2B+%7C+JavaScript+%7C+Python;Focused+on+Real-World+Impact;Building+Things+,+Breaking+boundaries" />
-</p>
+**AI/ML Undergraduate, IIIT Nagpur** · Computer Vision · NLP · Full-Stack ML Systems
 
-<!-- ================= BADGES (PROPERLY PLACED) ================= -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkhedekar31)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashkhedekar31@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fantom-1)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fantom-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Fantom-1?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Fantom-1?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/last-commit/Fantom-1/Fantom-1?style=for-the-badge&color=green" />
-</p>
+</div>
 
-----
+<br>
 
-## About me
+## About
 
- **AI & ML Undergraduate — IIIT Nagpur**  
- Passionate about **Intelligent Systems, Edge AI, and Scalable Software**  
- Actively building projects in **Machine Learning, Automation, and Web Development**  
+I'm a third-year Computer Science undergraduate at IIIT Nagpur, specializing in AI/ML. My work spans computer vision, NLP, and full-stack ML system design — from training detection models to shipping the backend and APIs around them.
 
+Currently building:
+- **Ledger** — a BFSI document intelligence and risk analysis platform, combining vision-based document parsing, financial NER, and graph-based risk scoring.
+- **Saksham** — a satellite road-extraction and network-criticality analysis system built for ISRO Bharatiya Antariksh Hackathon 2026, centered on a graph-theoretic criticality engine (MFNCE).
 
-----
+Interests: distributed training, GPU/kernel programming (CUDA), transformer architectures, and open-source contribution.
 
-<table>
-<tr>
-<td width="60%">
+<br>
 
-### Programming Languages
+## Tech Stack
+
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html" />
 </p>
 
-### Tools & Technologies
+**Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,jupyter,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,fastapi,nodejs" />
 </p>
 
-</td>
-
-<td width="40%" align="center">
-
-### GitHub
-<img height="170"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=Fantom-1&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yashkhedekar31">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash_Khedekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Fantom-1">
-    <img src="https://img.shields.io/badge/GitHub-Fantom--1-181717?style=for-the-badge&logo=github"/>
-  </a>
+**Tools & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postgres,mongodb" />
 </p>
 
+<br>
 
-<p align="center">
-  <i>"Code with purpose. Build with impact."</i>
-</p>
+
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fantom-1&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Fantom-1&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Open to collaboration on ML systems, research, and open-source work.</sub>
+</div>
