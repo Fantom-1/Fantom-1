@@ -19,7 +19,6 @@ I'm a third-year Computer Science undergraduate at IIIT Nagpur, specializing in 
 Currently building:
 - **Ledger** — a BFSI document intelligence and risk analysis platform, combining vision-based document parsing, financial NER, and graph-based risk scoring.
 
-Interests: distributed training, GPU/kernel programming (CUDA), transformer architectures, and open-source contribution.
 
 <br>
 
