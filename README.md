@@ -18,7 +18,6 @@ I'm a third-year Computer Science undergraduate at IIIT Nagpur, specializing in 
 
 Currently building:
 - **Ledger** — a BFSI document intelligence and risk analysis platform, combining vision-based document parsing, financial NER, and graph-based risk scoring.
-- **Saksham** — a satellite road-extraction and network-criticality analysis system built for ISRO Bharatiya Antariksh Hackathon 2026, centered on a graph-theoretic criticality engine (MFNCE).
 
 Interests: distributed training, GPU/kernel programming (CUDA), transformer architectures, and open-source contribution.
 
@@ -42,8 +41,6 @@ Interests: distributed training, GPU/kernel programming (CUDA), transformer arch
 </p>
 
 <br>
-
-
 
 ## GitHub Stats
 
